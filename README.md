@@ -86,7 +86,3 @@ cd Client
 ## Contributing
 
 Feel free to fork this project and submit pull requests for any improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details
